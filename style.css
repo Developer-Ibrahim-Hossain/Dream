@@ -114,6 +114,11 @@
     padding: 10px;
     border-bottom: 1px solid #000;
 }
+/* Service */
+.card{
+    border: 1px solid #000;
+    border-radius: 5px;
+}
 
 /* Content */
 
